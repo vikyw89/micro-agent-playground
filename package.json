@@ -1,0 +1,18 @@
+{
+  "name": "micro-agent-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest --no-watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@builder.io/micro-agent": "^0.0.47",
+    "tsx": "^4.15.5",
+    "typescript": "^5.4.5",
+    "vitest": "^1.6.0"
+  }
+}
